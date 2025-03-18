@@ -17,6 +17,7 @@ I am a final-year PhD candidate in the [Department of Electrical and Systems Eng
 
 
 ## News
+<b>Apr 2024:</b> Our paper [“Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs”](https://arxiv.org/abs/2305.18467) got accepted at IEEE Transactions on Signal Processing! <br>
 <b>December 2024:</b> Our paper [*Generalization of Graph Neural Networks is Robust to Model Mismatch*](https://arxiv.org/abs/2408.13878) has been accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). See you in Philadlephia!<br>
 <b>December 2024:</b> We are excited to announce that we will be presenting a tutorial “[Graph Neural Networks: Architectures, Fundamental Properties and Applications](https://gnn.seas.upenn.edu/aaai-2025/)” at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) in Philadelphia. Stay tuned for more details!<br>
 <b>September 2024:</b> I have been selected to participate in [the Rising Stars in Data Science workshop](https://datascience.ucsd.edu/rising-stars-in-data-science/)!<br>
