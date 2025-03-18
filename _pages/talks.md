@@ -5,6 +5,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+
 - Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*Rising Stars in Data Science, November 2024*
 - Generalization of Geometric Graph Neural Networks<br>*Asilomar Conference on Signals, Systems, and Computers, October 2024*
 - Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*INFORMS annual meeting, October 2024*
