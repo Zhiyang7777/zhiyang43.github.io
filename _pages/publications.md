@@ -23,6 +23,10 @@ author_profile: true
 
 ## Journal Papers
 
+**Generalization of Geometric Graph Neural Networks with Lipschitz Loss Functions**\
+**Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
+*IEEE Transactions on Signal Processing*, 2025\
+
 **Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs**\
 **Zhiyang Wang**, Luana Ruiz, Alejandro Ribeiro\
 *IEEE Transactions on Signal Processing*, 2024\
