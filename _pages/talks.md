@@ -5,6 +5,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+- Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*Invited talk at Massachusetts Institute of Technology, Electrical Engineering and Computer Science Department, April 2025*
 - Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*Invited talk at Colorado State University, Department of Electrical and Computer Engineering, March 2025*
 - Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*Invited talk at North Carolina State University, Department of Electrical and Computer Engineering, March 2025*
 - Manifold Filters and Neural Networks: Geometric Graph Signal Processing in the Limit<br>*Invited talk at Texas A&M University, Department of Industrial and Systems Engineering, March 2025*
