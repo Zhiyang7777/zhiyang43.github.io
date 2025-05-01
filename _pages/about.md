@@ -16,8 +16,9 @@ I am a final-year PhD candidate in the [Department of Electrical and Systems Eng
 
 
 ## News
+<b>May 2025:</b> Our paper *"A Manifold Perspective on the Statistical Generalization of Graph Neural Networks"* has been accepted at ICML 2025! <br>
 <b>April 2025:</b> I am happy to announce that I successfully defended my PhD thesis on April 15! <br>
-<b>March 2025:</b> Our paper *Generalization of Geometric Graph Neural Networks with Lipschitz Loss Functions* has been accepted at  IEEE Transactions on Signal Processing!<br>
+<b>March 2025:</b> Our paper *"Generalization of Geometric Graph Neural Networks with Lipschitz Loss Functions"* has been accepted at  IEEE Transactions on Signal Processing!<br>
 <b>December 2024:</b> Our paper [*Generalization of Graph Neural Networks is Robust to Model Mismatch*](https://arxiv.org/abs/2408.13878) has been accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). See you in Philadlephia!<br>
 <b>December 2024:</b> We are excited to announce that we will be presenting a tutorial “[Graph Neural Networks: Architectures, Fundamental Properties and Applications](https://gnn.seas.upenn.edu/aaai-2025/)” at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) in Philadelphia. Stay tuned for more details!<br>
 <b>September 2024:</b> I have been selected to participate in [the Rising Stars in Data Science workshop](https://datascience.ucsd.edu/rising-stars-in-data-science/)!<br>

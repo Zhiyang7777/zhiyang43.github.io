@@ -15,11 +15,6 @@ author_profile: true
 ## Preprints
 
 
-**A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**\
-**Zhiyang Wang&#8224;**, Juan Cervino&#8224;, Alejandro Ribeiro\
-*arXiv*, 2024\
-[[link](https://arxiv.org/abs/2406.05225)]
-
 
 ## Journal Papers
 
@@ -69,6 +64,11 @@ Alejandro Parada-Mayorga, **Zhiyang Wang**, Alejandro Ribeiro\
 
 
 ## Conference Papers
+
+**A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**\
+**Zhiyang Wang&#8224;**, Juan Cervino&#8224;, Alejandro Ribeiro\
+*accepted at ICML*, 2025\
+[[link](https://arxiv.org/abs/2406.05225)]
 
 **Generalization of Graph Neural Networks is Robust to Model Mismatch**\
 **Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
