@@ -8,6 +8,9 @@ author_profile: true
 
 ## Reviewer
 
+- Sampling Theory, Signal Processing, and Data Analysis, 2025
+- Journal of Manufacturing Systems, 2025
+- IEEE Journal on Selected Areas in Communications, 2024
 - IEEE Internet of Things Journal, 2024
 - IEEE Access, 2024
 - SIAM Journal on Mathematics of Data Science, 2024

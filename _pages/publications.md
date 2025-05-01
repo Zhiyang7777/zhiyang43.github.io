@@ -20,7 +20,8 @@ author_profile: true
 
 **Generalization of Geometric Graph Neural Networks with Lipschitz Loss Functions**\
 **Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
-*IEEE Transactions on Signal Processing*, 2025
+*IEEE Transactions on Signal Processing*, 2025\
+[[link](https://ieeexplore.ieee.org/document/10934739)]
 
 **Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs**\
 **Zhiyang Wang**, Luana Ruiz, Alejandro Ribeiro\
@@ -73,13 +74,13 @@ Alejandro Parada-Mayorga, **Zhiyang Wang**, Alejandro Ribeiro\
 **Generalization of Graph Neural Networks is Robust to Model Mismatch**\
 **Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
 *The 39th Annual AAAI Conference on Artificial Intelligence* (AAAI 2025)\
-[[link](https://arxiv.org/abs/2408.13878)]
+[[link](https://ojs.aaai.org/index.php/AAAI/article/view/35441)]
 
 **Generalization of Graph Neural Networks: Over Geometric Graphs Sampled from Manifolds**\
 **Zhiyang Wang**, Juan Cervino, Alejandro Ribeiro\
 *Asilomar Conference on Signals, Systems, and Computers*, 2024\
 **<span style="color:red">Finalist of Best Student Paper Award</span>**\
-[[pdf](/Papers/Asilomar2024-Generalization.pdf)][[link]()]
+[[pdf](/Papers/Asilomar2024-Generalization.pdf)][[link](https://ieeexplore.ieee.org/abstract/document/10942914)]
 
 **Convergence of Graph Neural Networks on Relatively Sparse Graphs**\
 **Zhiyang Wang**, Luana Ruiz, Alejandro Ribeiro\
