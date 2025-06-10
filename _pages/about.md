@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 
-I am a final-year PhD candidate in the [Department of Electrical and Systems Engineering](https://www.ese.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), having the honor to be advised by Prof. [Alejandro Ribeiro](https://alelab.seas.upenn.edu/alejandro-ribeiro/). I received B.E. and M.E. degrees in 2016 and 2019, respectively, advised by Prof. [Cong Shen](https://engineering.virginia.edu/faculty/cong-shen), from the Department of Electronic Engineering and Information Science, [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I earned my PhD in the [Department of Electrical and Systems Engineering](https://www.ese.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/), having the honor to be advised by Prof. [Alejandro Ribeiro](https://alelab.seas.upenn.edu/alejandro-ribeiro/). I received B.E. and M.E. degrees in 2016 and 2019, respectively, advised by Prof. [Cong Shen](https://engineering.virginia.edu/faculty/cong-shen), from the Department of Electronic Engineering and Information Science, [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 I will be a postdoc scholar in [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at UCSD in July 2025. I am an incoming assistant professor in the [Department of Electrical and Systems Engineering](https://ese.washu.edu/index.html) at the [Washington University in St. Louis](https://washu.edu/) in August 2026.
 
