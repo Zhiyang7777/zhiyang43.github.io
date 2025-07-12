@@ -107,8 +107,8 @@ author:
   name             : "Zhiyang Wang"
   avatar           : "/Images/4F6A2395.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Philadelphia, PA, USA"
-  email            : "zhiyangw@seas.upenn.edu"
+  location         : "San Diego, CA, USA"
+  email            : "zhw135@ucsd.edu"
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
