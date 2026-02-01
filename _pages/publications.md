@@ -66,6 +66,11 @@ Alejandro Parada-Mayorga, **Zhiyang Wang**, Alejandro Ribeiro\
 
 ## Conference Papers
 
+**Graph Neural Networks in Large Scale Wireless Communication Networks: Scalability Across Random Geometric Graphs**\
+Romina Garcia Camargo, **Zhiyang Wang**, Alejandro Ribeiro\
+*accepted at ICASSP*, 2026\
+[[pdf](/Papers/ICASSP2026.pdf)]
+
 **A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**\
 **Zhiyang Wang&#8224;**, Juan Cervino&#8224;, Alejandro Ribeiro\
 *accepted at ICML*, 2025\
