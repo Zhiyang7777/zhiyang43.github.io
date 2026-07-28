@@ -8,6 +8,10 @@ author_profile: true
 
 ## Teaching
 
+### Instructor at Washington University in St. Louis
+
+- [ESE 5291 Special Topics in Information Science & Learning: Foundations of Graph Signal Processing and Graph Machine Learning](/ese5291/) (Fall 2026)
+
 ### Teaching Assistant at the University of Pennsylvania
 
 - ESE 514 Graph Neural Networks (Fall 2021)
