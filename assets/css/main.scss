@@ -10,7 +10,13 @@ $link-color: #0092ca;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Custom font size adjustment - 95% of default
+// Match font size to paulrichmond.shef.ac.uk
 html {
-  font-size: 95%;
+  font-size: 16px;
+}
+
+@media (min-width: 48em) {
+  html {
+    font-size: 18px;
+  }
 }
