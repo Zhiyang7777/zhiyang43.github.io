@@ -119,7 +119,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:zhiyangw@seas.upenn.edu
-    - label: "Website"
+    - label: "Department Website"
       icon: "fas fa-fw fa-link"
       url: "https://engineering.washu.edu/faculty/Zhiyang-Wang.html"
     - label: "Linkedin"
