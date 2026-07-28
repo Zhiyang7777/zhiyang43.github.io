@@ -9,3 +9,8 @@ $link-color: #0092ca;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Custom font size adjustment - 95% of default
+html {
+  font-size: 95%;
+}
