@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Teaching Experience"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -21,15 +21,5 @@ author_profile: true
 ### Teaching Assistant at the University of Science and Technology of China
 
 - MIMO Wireless Communications (Fall 2017)  
-- C Programming (Spring 2015)        
-
-## Mentorship
-
-### Graduate Student
-
-- Romina Garcia (University of Pennsylvania)
-
-### Undergraduate Student
-
-- Martin Alijaj (University of Pennsylvania)
+- C Programming (Spring 2015)
 
