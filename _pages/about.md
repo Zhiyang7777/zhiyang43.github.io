@@ -14,6 +14,10 @@ I am an Assistant Professor in [Department of Electrical & Systems Engineering](
 
 Before joining WashU, I was a Postdoc Scholar in [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at UCSD, advised by Prof. [Yusu Wang](http://yusu.belkin-wang.org/). I earned my PhD in the [Department of Electrical and Systems Engineering](https://www.ese.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) in May 2025, having the honor to be advised by Prof. [Alejandro Ribeiro](https://alelab.seas.upenn.edu/alejandro-ribeiro/). I received B.E. and M.E. degrees in 2016 and 2019, respectively, advised by Prof. [Cong Shen](https://engineering.virginia.edu/faculty/cong-shen), from the Department of Electronic Engineering and Information Science, [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
+My research interests encompass graph signal processing, graph neural networks, geometric data analysis, wireless communications, and scalable autonomous systems. My research builds the mathematical foundations to understand the fundamental properties of graph neural networks via a manifold perspective. These theoretical understandings can advance scalable and stable solutions in many graph-structured applications such as communication networks, robotic systems, and data manifolds. 
+
+My ultimate goal is to use insights from signal processing to characterize mathematical foundations, develop novel architectures, and devise alternative training procedures for deep learning over real-world geometric data.
+
 ## News
 <b> July 2026:</b> I joined WashU ESE department as an Assistant Professor! I will teach ESE 5291-01 Special Topics in Information Science & Learning: Foundations of Graph Signal Processing and Graph Machine Learning. Please refer [here](/ese5291/) to know more. <br>
 <b>May 2025:</b> We will organize "[*New Perspectives in Graph Machine Learning*](https://newgraphperspectives.com/)" at [NeurIPS](https://neurips.cc/) this year! Submit your latest work and join us in San Diego! <br>
