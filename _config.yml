@@ -108,7 +108,7 @@ author:
   avatar           : "/Images/4F6A2395.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "St. Louis, MO, USA"
-  email            : "wzhiyang@wustl.edu"
+  # email          : "wzhiyang@wustl.edu" # handled via author.links below so the address is shown as text
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
@@ -116,9 +116,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-book"
       url: "https://scholar.google.com/citations?user=fKQTqCoAAAAJ"
-    - label: "Email"
+    - label: "wzhiyang@wustl.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:zhiyangw@seas.upenn.edu
+      url: "mailto:wzhiyang@wustl.edu"
     - label: "Department Website"
       icon: "fas fa-fw fa-link"
       url: "https://engineering.washu.edu/faculty/Zhiyang-Wang.html"
