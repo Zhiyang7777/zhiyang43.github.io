@@ -18,6 +18,8 @@ My research interests encompass graph signal processing, graph neural networks, 
 
 My ultimate goal is to use insights from signal processing to characterize mathematical foundations, develop novel architectures, and devise alternative training procedures for deep learning over real-world geometric data.
 
+<p style="color: #00274c;"><strong>I am looking for highly-motivated PhD students to join my group, and I encourage master's and undergraduate students at WashU interested in my research to enroll in my course ESE5291 and reach out to me. I'm always happy to chat!</strong></p>
+
 ## News
 <b> July 2026:</b> I joined WashU ESE department as an Assistant Professor! I will teach ESE 5291-01 Special Topics in Information Science & Learning: Foundations of Graph Signal Processing and Graph Machine Learning. Please refer [here](/ese5291/) to know more. <br>
 <b>May 2025:</b> We will organize "[*New Perspectives in Graph Machine Learning*](https://newgraphperspectives.com/)" at [NeurIPS](https://neurips.cc/) this year! Submit your latest work and join us in San Diego! <br>
@@ -30,5 +32,4 @@ My ultimate goal is to use insights from signal processing to characterize mathe
 <!-- <b>April 2024:</b> Our paper [*Geometric Graph Filters and Neural Networks: Limit Properties and Discriminability Trade-offs*](https://arxiv.org/abs/2305.18467) has been accepted at IEEE Transactions on Signal Processing!<br>
 <b>February 2024:</b> Our paper [*Stability to Deformations of Manifold Filters and Manifold Neural Networks*](https://arxiv.org/abs/2106.03725) has been accepted at IEEE Transactions on Signal Processing!<br>
 <b>August 2023:</b> I have been selected to participate in [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/)!<br> -->
-
 
