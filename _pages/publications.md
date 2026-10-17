@@ -74,6 +74,11 @@ Alejandro Parada-Mayorga, **Zhiyang Wang**, Alejandro Ribeiro\
 
 ## Conference Papers
 
+**Graph Learning Should Move Beyond Restrictive Views of Spectral and Message-Passing GNNs**\
+Antonis Vasileiou, Juan Cervino, Pascal Frossard, Charilaos I. Kanatsoulis, Christopher Morris, Michael T. Schaub, Pierre Vandergheynst, **Zhiyang Wang**, Guy Wolf, Ron Levie\
+*accepted at NeurIPS*, Position Paper Track, 2026\
+[[pdf](https://arxiv.org/pdf/2602.10031)][[link](https://arxiv.org/abs/2602.10031)]
+
 **Limit Analysis of Graph Neural Networks with Wireless Conflict Graphs**\
 Romina Garcia Camargo, **Zhiyang Wang**, Alejandro Ribeiro\
 *accepted at IEEE SPAWC*, 2026\
