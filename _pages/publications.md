@@ -14,7 +14,15 @@ author_profile: true
 
 ## Preprints
 
+**Scalability of Graph Neural Network Policies in Wireless Communication Networks**\
+Romina Garcia Camargo, **Zhiyang Wang**, Alejandro Ribeiro\
+*arXiv preprint*, 2026\
+[[pdf](https://arxiv.org/pdf/2609.06066)][[link](https://arxiv.org/abs/2609.06066)]
 
+**Long-Horizon Wireless Link Scheduling with State-Augmented Graph Neural Networks**\
+Romina Garcia Camargo, **Zhiyang Wang**, Navid Naderializadeh, Alejandro Ribeiro\
+*arXiv preprint*, 2026\
+[[pdf](https://arxiv.org/pdf/2607.18480)][[link](https://arxiv.org/abs/2607.18480)]
 
 ## Journal Papers
 
