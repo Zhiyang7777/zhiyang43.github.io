@@ -74,6 +74,11 @@ Alejandro Parada-Mayorga, **Zhiyang Wang**, Alejandro Ribeiro\
 
 ## Conference Papers
 
+**Limit Analysis of Graph Neural Networks with Wireless Conflict Graphs**\
+Romina Garcia Camargo, **Zhiyang Wang**, Alejandro Ribeiro\
+*accepted at IEEE SPAWC*, 2026\
+[[pdf](https://arxiv.org/pdf/2606.03794)][[link](https://arxiv.org/abs/2606.03794)]
+
 **Graph Neural Networks in Large Scale Wireless Communication Networks: Scalability Across Random Geometric Graphs**\
 Romina Garcia Camargo, **Zhiyang Wang**, Alejandro Ribeiro\
 *accepted at ICASSP*, 2026\
