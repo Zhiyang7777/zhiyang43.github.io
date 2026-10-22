@@ -14,6 +14,11 @@ author_profile: true
 
 ## Preprints
 
+**Looped GNNs Beyond Fixed Depth: Graph Size Generalization and Parameter-Efficient Adaptation**\
+**Zhiyang Wang**, Zhishang Luo, Yusu Wang\
+*arXiv preprint*, 2026\
+[[pdf](https://arxiv.org/pdf/2610.24112)][[link](https://arxiv.org/abs/2610.24112)]
+
 **Scalability of Graph Neural Network Policies in Wireless Communication Networks**\
 Romina Garcia Camargo, **Zhiyang Wang**, Alejandro Ribeiro\
 *arXiv preprint*, 2026\
