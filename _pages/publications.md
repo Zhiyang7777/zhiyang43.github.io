@@ -19,6 +19,11 @@ author_profile: true
 *arXiv preprint*, 2026\
 [[pdf](https://arxiv.org/pdf/2610.24112)][[link](https://arxiv.org/abs/2610.24112)]
 
+**Size Transferability of Graph Transformers with Convolutional Positional Encodings**\
+Javier Porras-Valenzuela, **Zhiyang Wang**, Alejandro Ribeiro\
+*arXiv preprint*, 2026\
+[[pdf](https://arxiv.org/pdf/2602.15239)][[link](https://arxiv.org/abs/2602.15239)]
+
 **Scalability of Graph Neural Network Policies in Wireless Communication Networks**\
 Romina Garcia Camargo, **Zhiyang Wang**, Alejandro Ribeiro\
 *arXiv preprint*, 2026\
