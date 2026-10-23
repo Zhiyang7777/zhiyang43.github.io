@@ -29,6 +29,11 @@ Romina Garcia Camargo, **Zhiyang Wang**, Navid Naderializadeh, Alejandro Ribeiro
 *arXiv preprint*, 2026\
 [[pdf](https://arxiv.org/pdf/2607.18480)][[link](https://arxiv.org/abs/2607.18480)]
 
+**Graph Semi-Supervised Learning for Point Classification on Data Manifolds**\
+Caio F. Deberaldini Netto, **Zhiyang Wang**, Luana Ruiz\
+*arXiv preprint*, 2025\
+[[pdf](https://arxiv.org/pdf/2506.12197)][[link](https://arxiv.org/abs/2506.12197)]
+
 ## Journal Papers
 
 **Generalization of Geometric Graph Neural Networks with Lipschitz Loss Functions**\
