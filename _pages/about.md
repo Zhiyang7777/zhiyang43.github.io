@@ -22,7 +22,7 @@ My ultimate goal is to use insights from signal processing to characterize mathe
 
 ## News
 <b> July 2026:</b> I joined WashU ESE department as an Assistant Professor! I will teach ESE 5291-01 Special Topics in Information Science & Learning: Foundations of Graph Signal Processing and Graph Machine Learning. Please refer [here](/ese5291/) to know more. <br>
-<b>May 2025:</b> We will organize "[*New Perspectives in Graph Machine Learning*](https://newgraphperspectives.com/)" at [NeurIPS](https://neurips.cc/) this year! Submit your latest work and join us in San Diego! <br>
+<b>May 2025:</b> We will organize "[*New Perspectives in Graph Machine Learning*](https://neurips.cc/virtual/2025/loc/san-diego/workshop/109579)" at [NeurIPS](https://neurips.cc/) this year! Submit your latest work and join us in San Diego! <br>
 <b>May 2025:</b> Our paper *"A Manifold Perspective on the Statistical Generalization of Graph Neural Networks"* has been accepted at ICML 2025! <br>
 <b>April 2025:</b> I am happy to announce that I successfully defended my PhD thesis on April 15! <br>
 <b>March 2025:</b> Our paper *"Generalization of Geometric Graph Neural Networks with Lipschitz Loss Functions"* has been accepted at  IEEE Transactions on Signal Processing!<br>
